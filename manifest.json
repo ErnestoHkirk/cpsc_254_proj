@@ -1,0 +1,32 @@
+﻿{
+  "manifest_version": 2,
+
+  "name": "254 Project Chrome Extension",
+  "description": "This program searches gradetier.com and displays CSUF GPA data back to RMP.com",
+  "version": "1.0", 
+
+  "content_scripts": [{
+    "matches": [
+      "https://www.ratemyprofessors.com/*"
+    ],
+    "js":["contentscript.js"]
+  }],
+
+  "permissions": [
+    "*://gradetier.com/*"
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "short_name": "RMPGradeTExtension",
+
+  "web_accessible_resources": ["images/*.gif", "images/*.png"],
+
+  "icons": {
+    "16": "images/254_16.png",
+    "32": "images/254_32.png",
+    "48": "images/254_48.png"
+  }
+}
