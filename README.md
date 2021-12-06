@@ -10,7 +10,7 @@ Magic and love.
 __Link to Chrome Store__
 * https://chrome.google.com/webstore/detail/
 
-## GNU Version 3, Open Source Liscense 
+## GNU Version 3, Open Source License
 #### TERMS AND CONDITIONS
 0. Definitions.
 
