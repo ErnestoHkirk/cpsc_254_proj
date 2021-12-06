@@ -1,4 +1,4 @@
-# Rate My Professor - Gradetier GPA viewer
+# Rate My Professor - Gradetier GPA Viewer
 This extension's chrome store webpage can be found 
 
 This chrome extension provides the average class GPA's for Fall of 2018
