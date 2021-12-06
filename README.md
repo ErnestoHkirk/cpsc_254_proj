@@ -11,8 +11,7 @@ __Link to Chrome Store__
 * https://chrome.google.com/webstore/detail/
 
 ## GNU Version 3, Open Source Liscense 
-/*
-TERMS AND CONDITIONS
+# TERMS AND CONDITIONS
 0. Definitions.
 
 “This License” refers to version 3 of the GNU General Public License.
@@ -186,8 +185,8 @@ IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY C
 
 If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.
 
-END OF TERMS AND CONDITIONS
-*/
+# END OF TERMS AND CONDITIONS
+
 
 ## Change Log
 ###### v1.0 ######
