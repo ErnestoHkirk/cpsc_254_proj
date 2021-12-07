@@ -1,11 +1,22 @@
 # Rate My Professor - Gradetier GPA Viewer
-This extension's chrome store webpage can be found 
+This extension's chrome store webpage can be found at 
 
 This chrome extension provides the average class GPA's for Fall of 2018
 onto RateMyProfessor.com, it only works for CSUF.
 
 ## How It Works
 Magic and love.
+
+## Development Process
+Our group met for the first time fairly quickly after forming in the Discord chat for the class.  A few ideas for a project were bandied about, but the one that gained the most traction was the adaptation of an open-source Chrome extension that one of our group members had already developed and released.  This Chrome extension was designed to assist users in making informed decisions about movies to watch on Prime Videos by pulling Rotten Tomatoes scores and displaying them on screen when a user hovered their mouse over a movie tile on the Prime Videos website.  We decided to adapt this open-source program to pull aggregate user scores from ratemyprofessors.com for teachers and display them on gradetier.com so that students browsing the gradetier website looking courses taught by particular professors could quickly use the average score and the ratemyprofessor.com rating to triangulate the optimal classes in which to enroll.  A review of what this adaptation would take quickly told us that this idea was not feasible, but that reversing this process and putting the average class scores onto ratemyprofessors.com next to the aggregate user score for each teacher would both accomplish the same goal and be a realistic goal to achieve during this class project.  We got to work divvying up programming, icon design, and administrative tasks and, after several hours each of hard work, meetings, scratching heads, comparing notes, and seemingly endless rounds of testing we had a working finished product buttoned up and uploaded to Github.
+
+## Team Members and Responsibilites
+Gabriel: Helped plan out tasks and assisted during development.
+Jonathan: Resident artist, designed icon and assisted during development.
+Ernesto: Assisted during development.
+
+## Tools Used
+VS Code, Live Share Extension, Google Chrome Extension frameworks, 
 
 __Link to Chrome Store__
 * https://chrome.google.com/webstore/detail/
