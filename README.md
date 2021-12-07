@@ -1,6 +1,4 @@
 # Rate My Professor - Gradetier GPA Viewer
-This extension's chrome store webpage can be found at 
-
 This chrome extension provides the average class GPA's for Fall of 2018
 onto RateMyProfessor.com, it only works for CSUF.
 
