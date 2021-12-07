@@ -41,9 +41,9 @@ chrome.runtime.onMessage.addListener(
 
                         // Add URL to list
                         row_HTML = String(row_HTML);
-                        row_HTML = row_HTML.split("chrome-extension://lfnfhcanigjhmicadlcfblmaplmjfcoo/");
+                        row_HTML = row_HTML.split("fullerton");
                         row_HTML = row_HTML[1];
-                        href_list[href_list.length] = "https://gradetier.com/" + row_HTML;
+                        href_list[href_list.length] = "https://gradetier.com/fullerton" + row_HTML;
                     }
                 }
 
