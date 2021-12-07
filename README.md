@@ -11,7 +11,7 @@ Our group met for the first time fairly quickly after forming in the Discord cha
 ## Team Members and Responsibilites
 ##### Gabriel: Helped plan out tasks and assisted during development.
 ##### Jonathan: Resident artist, designed icon and assisted during development.
-##### Ernesto: Assisted during development.
+##### Ernesto: Assisted during development. CEO.
 
 ## Tools Used
 VS Code, Live Share Extension, Google Chrome Extension frameworks, 
