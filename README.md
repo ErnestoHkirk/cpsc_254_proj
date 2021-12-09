@@ -14,7 +14,7 @@ Our group met for the first time fairly quickly after forming in the Discord cha
 ##### Ernesto: Assisted during development. CEO.
 
 ## Tools Used
-VS Code, Live Share Extension, Google Chrome Extension frameworks, Javascript, CSS, HTML, Linux, Windows
+VS Code, Live Share Extension, Google Chrome Extension frameworks, Javascript, CSS, HTML, Linux, Windows, Git, Github
 
 ## GNU Version 3, Open Source License
 #### TERMS AND CONDITIONS
