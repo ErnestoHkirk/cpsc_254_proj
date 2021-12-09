@@ -6,14 +6,14 @@ onto RateMyProfessor.com, it only works for CSUF.
 Magic and love.. and through a lot of javascript. Basically what this extension does is scrape data off RateMyProfessor, uses and formats that data in order to create a gradetier URL, searches gradetier for relevant data, formats that data and returns it nicely formatted to RateMyProfessor.
 
 ## How to Run
-Download this project into some compressed file format.
-Unpack and extract project into a folder.
-Open google chrome.
-Head to settings by clicking the three dots in the top right hand corner of the screen.
-Hover your mouse over "More tools', than click on "Extensions."
-Click "Load Unpacked" in the top lefthand corner of the screen.
-Load the extracted file.
-The extension should now be loaded onto google chrome, you can test it by visiting the rate my professor page of any professor at CSUF.
+##### Download this project into some compressed file format.
+##### Unpack and extract project into a folder.
+##### Open google chrome.
+##### Head to settings by clicking the three dots in the top right hand corner of the screen.
+##### Hover your mouse over "More tools', than click on "Extensions."
+##### Click "Load Unpacked" in the top lefthand corner of the screen.
+##### Load the extracted file.
+##### The extension should now be loaded onto google chrome, you can test it by visiting the rate my professor page of any professor at CSUF.
 
 ## Development Process
 Our group met for the first time fairly quickly after forming in the Discord chat for the class.  A few ideas for a project were bandied about, but the one that gained the most traction was the adaptation of an open-source Chrome extension that one of our group members had already developed and released.  This Chrome extension was designed to assist users in making informed decisions about movies to watch on Prime Videos by pulling Rotten Tomatoes scores and displaying them on screen when a user hovered their mouse over a movie tile on the Prime Videos website.  We decided to adapt this open-source program to pull aggregate user scores from ratemyprofessors.com for teachers and display them on gradetier.com so that students browsing the gradetier website looking through courses taught by particular professors could quickly use the average score and the ratemyprofessor.com rating to triangulate the optimal classes in which to enroll.  A review of what this adaptation would take quickly told us that this idea was not feasible, but that reversing this process and putting the average class scores onto ratemyprofessors.com next to the aggregate user score for each teacher would both accomplish the same end, and be a realistic goal to achieve during this class project.  We got to work divvying up programming, icon design, and administrative tasks and, after several hours each of hard work, meetings, scratching heads, comparing notes, and seemingly endless rounds of testing we had a working finished product buttoned up and uploaded to Github.
