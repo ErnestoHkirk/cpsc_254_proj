@@ -25,7 +25,9 @@ Ernesto: Assisted during development. CEO.
 Tools Used
 VS Code, Live Share Extension, Google Chrome Extension frameworks, Javascript, CSS, HTML, Linux, Windows, Git, Github
 
-GNU Version 3, Open Source License (expanded version of this license can be found in this project repository) 
+License Used
+GNU Version 3, Open Source License
 
-Github/Code updates + version control can be found here:
-https://github.com/ErnestoHkirk/cpsc_254_proj
+Code showing modifications
+The modifications done on the original source code can be found in the folder in this repository labeled: "screenshots of new code vs source program"
+
